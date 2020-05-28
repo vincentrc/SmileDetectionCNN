@@ -1,3 +1,3 @@
 # SmileDetectionCNN
 
-Documentation in Report.docx.
+Documentation in Report.pdf.
